@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\newHouse\\newHouse.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\newHouse\\newHouse.csproj",
       "projectName": "newHouse",
-      "projectPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\newHouse\\newHouse.csproj",
+      "projectPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\newHouse\\newHouse.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\newHouse\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\newHouse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

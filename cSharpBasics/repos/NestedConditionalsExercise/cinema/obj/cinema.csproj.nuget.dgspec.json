@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\cinema\\cinema.csproj": {}
+    "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\cinema\\cinema.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\cinema\\cinema.csproj": {
+    "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\cinema\\cinema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\cinema\\cinema.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\cinema\\cinema.csproj",
         "projectName": "cinema",
-        "projectPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\cinema\\cinema.csproj",
+        "projectPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\cinema\\cinema.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\cinema\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\cinema\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

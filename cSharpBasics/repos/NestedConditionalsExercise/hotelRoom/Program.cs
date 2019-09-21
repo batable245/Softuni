@@ -14,12 +14,12 @@ namespace hotelRoom
 
             if (month.Equals("May") || month.Equals("October"))
             {
-                apartmentPrice = 50;
-                studioPrice = 65;
+                apartmentPrice = 65 * nights;
+                studioPrice = 50 * nights;
                 if (nights > 14)
                 {
-                    studioPrice = studioPrice - (studioPrice * 0.70);
-                    apartmentPrice = apartmentPrice - (apartmentPrice * 0.90);
+                    studioPrice *= 0.70;
+                    apartmentPrice *= 0.90;
                 }
                 else if (nights > 7)
                 {
@@ -29,8 +29,8 @@ namespace hotelRoom
             }
             if (month.Equals("June") || month.Equals("September"))
             {
-                apartmentPrice = 75.20;
-                studioPrice = 68.70;
+                apartmentPrice = 68.70 * nights;
+                studioPrice = 75.20 * nights;
                 if (nights > 14)
                 {
                     studioPrice *= 0.80;
@@ -39,15 +39,15 @@ namespace hotelRoom
             }
             if (month.Equals("July") || month.Equals("August"))
             {
-                apartmentPrice = 76;
-                studioPrice = 77;
+                apartmentPrice = 77 * nights;
+                studioPrice = 76 * nights;
                 if (nights > 14)
                 {
                     apartmentPrice *= 0.90;
                 }
             }
 
-            Console.WriteLine($"Apartment: {apartmentPrice:F2} lv.); \r\n " + ($"Studio: {studioPrice:F2} lv."));
+            Console.WriteLine($"Apartment: {apartmentPrice:F2} lv. \r\n " + ($"Studio: {studioPrice:F2} lv."));
         }
     }
 }

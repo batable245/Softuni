@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\fishingBoat\\fishingBoat.csproj": {}
+    "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\fishingBoat\\fishingBoat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\fishingBoat\\fishingBoat.csproj": {
+    "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\fishingBoat\\fishingBoat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\fishingBoat\\fishingBoat.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\fishingBoat\\fishingBoat.csproj",
         "projectName": "fishingBoat",
-        "projectPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\fishingBoat\\fishingBoat.csproj",
+        "projectPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\fishingBoat\\fishingBoat.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\fishingBoat\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\fishingBoat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

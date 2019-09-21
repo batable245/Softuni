@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\operationsBetweenNumbers\\operationsBetweenNumbers.csproj": {}
+    "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\operationsBetweenNumbers\\operationsBetweenNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\operationsBetweenNumbers\\operationsBetweenNumbers.csproj": {
+    "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\operationsBetweenNumbers\\operationsBetweenNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\operationsBetweenNumbers\\operationsBetweenNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\operationsBetweenNumbers\\operationsBetweenNumbers.csproj",
         "projectName": "operationsBetweenNumbers",
-        "projectPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\operationsBetweenNumbers\\operationsBetweenNumbers.csproj",
+        "projectPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\operationsBetweenNumbers\\operationsBetweenNumbers.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\operationsBetweenNumbers\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\operationsBetweenNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\NestedConditionalsExercise\\pointOnRectangle.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\NestedConditionalsExercise\\pointOnRectangle.csproj",
       "projectName": "pointOnRectangle",
-      "projectPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\NestedConditionalsExercise\\pointOnRectangle.csproj",
+      "projectPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\NestedConditionalsExercise\\pointOnRectangle.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\NestedConditionalsExercise\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\NestedConditionalsExercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

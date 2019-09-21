@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\summerOutfit\\summerOutfit.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\summerOutfit\\summerOutfit.csproj",
       "projectName": "summerOutfit",
-      "projectPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\summerOutfit\\summerOutfit.csproj",
+      "projectPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\summerOutfit\\summerOutfit.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\NestedConditionalsExercise\\summerOutfit\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\softuni\\cSharpBasics\\repos\\NestedConditionalsExercise\\summerOutfit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
