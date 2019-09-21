@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\NestedConditionalsExercise\fishingBoat\bin\Debug\netcoreapp2.1\fishingBoat.deps.json
+C:\Users\User\source\repos\NestedConditionalsExercise\fishingBoat\bin\Debug\netcoreapp2.1\fishingBoat.runtimeconfig.json
+C:\Users\User\source\repos\NestedConditionalsExercise\fishingBoat\bin\Debug\netcoreapp2.1\fishingBoat.runtimeconfig.dev.json
+C:\Users\User\source\repos\NestedConditionalsExercise\fishingBoat\bin\Debug\netcoreapp2.1\fishingBoat.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\fishingBoat\bin\Debug\netcoreapp2.1\fishingBoat.pdb
+C:\Users\User\source\repos\NestedConditionalsExercise\fishingBoat\obj\Debug\netcoreapp2.1\fishingBoat.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\fishingBoat\obj\Debug\netcoreapp2.1\fishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\fishingBoat\obj\Debug\netcoreapp2.1\fishingBoat.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\fishingBoat\obj\Debug\netcoreapp2.1\fishingBoat.AssemblyInfo.cs
+C:\Users\User\source\repos\NestedConditionalsExercise\fishingBoat\obj\Debug\netcoreapp2.1\fishingBoat.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\fishingBoat\obj\Debug\netcoreapp2.1\fishingBoat.pdb

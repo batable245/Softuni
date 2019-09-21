@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\USD to BGN\RectangleAreaInPlane\bin\Debug\netcoreapp2.1\RectangleAreaInPlane.deps.json
+C:\Users\User\source\repos\USD to BGN\RectangleAreaInPlane\bin\Debug\netcoreapp2.1\RectangleAreaInPlane.runtimeconfig.json
+C:\Users\User\source\repos\USD to BGN\RectangleAreaInPlane\bin\Debug\netcoreapp2.1\RectangleAreaInPlane.runtimeconfig.dev.json
+C:\Users\User\source\repos\USD to BGN\RectangleAreaInPlane\bin\Debug\netcoreapp2.1\RectangleAreaInPlane.dll
+C:\Users\User\source\repos\USD to BGN\RectangleAreaInPlane\bin\Debug\netcoreapp2.1\RectangleAreaInPlane.pdb
+C:\Users\User\source\repos\USD to BGN\RectangleAreaInPlane\obj\Debug\netcoreapp2.1\RectangleAreaInPlane.csprojAssemblyReference.cache
+C:\Users\User\source\repos\USD to BGN\RectangleAreaInPlane\obj\Debug\netcoreapp2.1\RectangleAreaInPlane.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\USD to BGN\RectangleAreaInPlane\obj\Debug\netcoreapp2.1\RectangleAreaInPlane.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\USD to BGN\RectangleAreaInPlane\obj\Debug\netcoreapp2.1\RectangleAreaInPlane.AssemblyInfo.cs
+C:\Users\User\source\repos\USD to BGN\RectangleAreaInPlane\obj\Debug\netcoreapp2.1\RectangleAreaInPlane.dll
+C:\Users\User\source\repos\USD to BGN\RectangleAreaInPlane\obj\Debug\netcoreapp2.1\RectangleAreaInPlane.pdb

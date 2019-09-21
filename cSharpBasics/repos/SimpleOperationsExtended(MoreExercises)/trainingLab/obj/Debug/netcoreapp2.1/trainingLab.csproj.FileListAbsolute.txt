@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\trainingLab\bin\Debug\netcoreapp2.1\trainingLab.deps.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\trainingLab\bin\Debug\netcoreapp2.1\trainingLab.runtimeconfig.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\trainingLab\bin\Debug\netcoreapp2.1\trainingLab.runtimeconfig.dev.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\trainingLab\bin\Debug\netcoreapp2.1\trainingLab.dll
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\trainingLab\bin\Debug\netcoreapp2.1\trainingLab.pdb
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\trainingLab\obj\Debug\netcoreapp2.1\trainingLab.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\trainingLab\obj\Debug\netcoreapp2.1\trainingLab.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\trainingLab\obj\Debug\netcoreapp2.1\trainingLab.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\trainingLab\obj\Debug\netcoreapp2.1\trainingLab.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\trainingLab\obj\Debug\netcoreapp2.1\trainingLab.dll
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\trainingLab\obj\Debug\netcoreapp2.1\trainingLab.pdb

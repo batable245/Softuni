@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\NestedConditionalsExercise\journey\bin\Debug\netcoreapp2.1\journey.deps.json
+C:\Users\User\source\repos\NestedConditionalsExercise\journey\bin\Debug\netcoreapp2.1\journey.runtimeconfig.json
+C:\Users\User\source\repos\NestedConditionalsExercise\journey\bin\Debug\netcoreapp2.1\journey.runtimeconfig.dev.json
+C:\Users\User\source\repos\NestedConditionalsExercise\journey\bin\Debug\netcoreapp2.1\journey.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\journey\bin\Debug\netcoreapp2.1\journey.pdb
+C:\Users\User\source\repos\NestedConditionalsExercise\journey\obj\Debug\netcoreapp2.1\journey.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\journey\obj\Debug\netcoreapp2.1\journey.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\journey\obj\Debug\netcoreapp2.1\journey.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\journey\obj\Debug\netcoreapp2.1\journey.AssemblyInfo.cs
+C:\Users\User\source\repos\NestedConditionalsExercise\journey\obj\Debug\netcoreapp2.1\journey.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\journey\obj\Debug\netcoreapp2.1\journey.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\fuelTank1\bin\Debug\netcoreapp2.1\fuelTank1.deps.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\fuelTank1\bin\Debug\netcoreapp2.1\fuelTank1.runtimeconfig.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\fuelTank1\bin\Debug\netcoreapp2.1\fuelTank1.runtimeconfig.dev.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\fuelTank1\bin\Debug\netcoreapp2.1\fuelTank1.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\fuelTank1\bin\Debug\netcoreapp2.1\fuelTank1.pdb
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\fuelTank1\obj\Debug\netcoreapp2.1\fuelTank1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\fuelTank1\obj\Debug\netcoreapp2.1\fuelTank1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\fuelTank1\obj\Debug\netcoreapp2.1\fuelTank1.AssemblyInfo.cs
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\fuelTank1\obj\Debug\netcoreapp2.1\fuelTank1.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\fuelTank1\obj\Debug\netcoreapp2.1\fuelTank1.pdb
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\fuelTank1\obj\Debug\netcoreapp2.1\fuelTank1.csprojAssemblyReference.cache

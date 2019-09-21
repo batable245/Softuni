@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Soft Uni Lekciq N1 produljenie\Soft Uni Lekciq N1 produljenie\bin\Debug\netcoreapp2.1\Soft Uni Lekciq N1 produljenie.deps.json
+C:\Users\User\source\repos\Soft Uni Lekciq N1 produljenie\Soft Uni Lekciq N1 produljenie\bin\Debug\netcoreapp2.1\Soft Uni Lekciq N1 produljenie.runtimeconfig.json
+C:\Users\User\source\repos\Soft Uni Lekciq N1 produljenie\Soft Uni Lekciq N1 produljenie\bin\Debug\netcoreapp2.1\Soft Uni Lekciq N1 produljenie.runtimeconfig.dev.json
+C:\Users\User\source\repos\Soft Uni Lekciq N1 produljenie\Soft Uni Lekciq N1 produljenie\bin\Debug\netcoreapp2.1\Soft Uni Lekciq N1 produljenie.dll
+C:\Users\User\source\repos\Soft Uni Lekciq N1 produljenie\Soft Uni Lekciq N1 produljenie\bin\Debug\netcoreapp2.1\Soft Uni Lekciq N1 produljenie.pdb
+C:\Users\User\source\repos\Soft Uni Lekciq N1 produljenie\Soft Uni Lekciq N1 produljenie\obj\Debug\netcoreapp2.1\Soft Uni Lekciq N1 produljenie.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Soft Uni Lekciq N1 produljenie\Soft Uni Lekciq N1 produljenie\obj\Debug\netcoreapp2.1\Soft Uni Lekciq N1 produljenie.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Soft Uni Lekciq N1 produljenie\Soft Uni Lekciq N1 produljenie\obj\Debug\netcoreapp2.1\Soft Uni Lekciq N1 produljenie.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Soft Uni Lekciq N1 produljenie\Soft Uni Lekciq N1 produljenie\obj\Debug\netcoreapp2.1\Soft Uni Lekciq N1 produljenie.AssemblyInfo.cs
+C:\Users\User\source\repos\Soft Uni Lekciq N1 produljenie\Soft Uni Lekciq N1 produljenie\obj\Debug\netcoreapp2.1\Soft Uni Lekciq N1 produljenie.dll
+C:\Users\User\source\repos\Soft Uni Lekciq N1 produljenie\Soft Uni Lekciq N1 produljenie\obj\Debug\netcoreapp2.1\Soft Uni Lekciq N1 produljenie.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\nestedConditionalStatementsLab\invalidNumber\bin\Debug\netcoreapp2.1\invalidNumber.deps.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\invalidNumber\bin\Debug\netcoreapp2.1\invalidNumber.runtimeconfig.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\invalidNumber\bin\Debug\netcoreapp2.1\invalidNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\invalidNumber\bin\Debug\netcoreapp2.1\invalidNumber.dll
+C:\Users\User\source\repos\nestedConditionalStatementsLab\invalidNumber\bin\Debug\netcoreapp2.1\invalidNumber.pdb
+C:\Users\User\source\repos\nestedConditionalStatementsLab\invalidNumber\obj\Debug\netcoreapp2.1\invalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nestedConditionalStatementsLab\invalidNumber\obj\Debug\netcoreapp2.1\invalidNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\nestedConditionalStatementsLab\invalidNumber\obj\Debug\netcoreapp2.1\invalidNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\nestedConditionalStatementsLab\invalidNumber\obj\Debug\netcoreapp2.1\invalidNumber.dll
+C:\Users\User\source\repos\nestedConditionalStatementsLab\invalidNumber\obj\Debug\netcoreapp2.1\invalidNumber.pdb

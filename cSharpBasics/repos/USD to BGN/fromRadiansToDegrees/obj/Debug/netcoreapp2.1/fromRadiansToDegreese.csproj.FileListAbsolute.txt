@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\USD to BGN\fromRadiansToDegrees\bin\Debug\netcoreapp2.1\fromRadiansToDegreese.deps.json
+C:\Users\User\source\repos\USD to BGN\fromRadiansToDegrees\bin\Debug\netcoreapp2.1\fromRadiansToDegreese.runtimeconfig.json
+C:\Users\User\source\repos\USD to BGN\fromRadiansToDegrees\bin\Debug\netcoreapp2.1\fromRadiansToDegreese.runtimeconfig.dev.json
+C:\Users\User\source\repos\USD to BGN\fromRadiansToDegrees\bin\Debug\netcoreapp2.1\fromRadiansToDegreese.dll
+C:\Users\User\source\repos\USD to BGN\fromRadiansToDegrees\bin\Debug\netcoreapp2.1\fromRadiansToDegreese.pdb
+C:\Users\User\source\repos\USD to BGN\fromRadiansToDegrees\obj\Debug\netcoreapp2.1\fromRadiansToDegreese.csprojAssemblyReference.cache
+C:\Users\User\source\repos\USD to BGN\fromRadiansToDegrees\obj\Debug\netcoreapp2.1\fromRadiansToDegreese.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\USD to BGN\fromRadiansToDegrees\obj\Debug\netcoreapp2.1\fromRadiansToDegreese.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\USD to BGN\fromRadiansToDegrees\obj\Debug\netcoreapp2.1\fromRadiansToDegreese.AssemblyInfo.cs
+C:\Users\User\source\repos\USD to BGN\fromRadiansToDegrees\obj\Debug\netcoreapp2.1\fromRadiansToDegreese.dll
+C:\Users\User\source\repos\USD to BGN\fromRadiansToDegrees\obj\Debug\netcoreapp2.1\fromRadiansToDegreese.pdb

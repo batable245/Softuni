@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\netcoreapp2.1\04. Inches to Centimeters.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\netcoreapp2.1\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\netcoreapp2.1\04. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\netcoreapp2.1\04. Inches to Centimeters.AssemblyInfo.cs
+C:\Users\User\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\netcoreapp2.1\04. Inches to Centimeters.deps.json
+C:\Users\User\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\netcoreapp2.1\04. Inches to Centimeters.runtimeconfig.json
+C:\Users\User\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\netcoreapp2.1\04. Inches to Centimeters.runtimeconfig.dev.json
+C:\Users\User\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\netcoreapp2.1\04. Inches to Centimeters.dll
+C:\Users\User\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\bin\Debug\netcoreapp2.1\04. Inches to Centimeters.pdb
+C:\Users\User\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\netcoreapp2.1\04. Inches to Centimeters.dll
+C:\Users\User\source\repos\04. Inches to Centimeters\04. Inches to Centimeters\obj\Debug\netcoreapp2.1\04. Inches to Centimeters.pdb

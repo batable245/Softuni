@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\NestedConditionalsExercise\NestedConditionalsExercise\bin\Debug\netcoreapp2.1\pointOnRectangle.deps.json
+C:\Users\User\source\repos\NestedConditionalsExercise\NestedConditionalsExercise\bin\Debug\netcoreapp2.1\pointOnRectangle.runtimeconfig.json
+C:\Users\User\source\repos\NestedConditionalsExercise\NestedConditionalsExercise\bin\Debug\netcoreapp2.1\pointOnRectangle.runtimeconfig.dev.json
+C:\Users\User\source\repos\NestedConditionalsExercise\NestedConditionalsExercise\bin\Debug\netcoreapp2.1\pointOnRectangle.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\NestedConditionalsExercise\bin\Debug\netcoreapp2.1\pointOnRectangle.pdb
+C:\Users\User\source\repos\NestedConditionalsExercise\NestedConditionalsExercise\obj\Debug\netcoreapp2.1\pointOnRectangle.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\NestedConditionalsExercise\obj\Debug\netcoreapp2.1\pointOnRectangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\NestedConditionalsExercise\obj\Debug\netcoreapp2.1\pointOnRectangle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\NestedConditionalsExercise\obj\Debug\netcoreapp2.1\pointOnRectangle.AssemblyInfo.cs
+C:\Users\User\source\repos\NestedConditionalsExercise\NestedConditionalsExercise\obj\Debug\netcoreapp2.1\pointOnRectangle.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\NestedConditionalsExercise\obj\Debug\netcoreapp2.1\pointOnRectangle.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\nestedConditionalStatementsLab\nestedConditionalStatementsLab\bin\Debug\netcoreapp2.1\personalTitles.deps.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\nestedConditionalStatementsLab\bin\Debug\netcoreapp2.1\personalTitles.runtimeconfig.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\nestedConditionalStatementsLab\bin\Debug\netcoreapp2.1\personalTitles.runtimeconfig.dev.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\nestedConditionalStatementsLab\bin\Debug\netcoreapp2.1\personalTitles.dll
+C:\Users\User\source\repos\nestedConditionalStatementsLab\nestedConditionalStatementsLab\bin\Debug\netcoreapp2.1\personalTitles.pdb
+C:\Users\User\source\repos\nestedConditionalStatementsLab\nestedConditionalStatementsLab\obj\Debug\netcoreapp2.1\personalTitles.csprojAssemblyReference.cache
+C:\Users\User\source\repos\nestedConditionalStatementsLab\nestedConditionalStatementsLab\obj\Debug\netcoreapp2.1\personalTitles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nestedConditionalStatementsLab\nestedConditionalStatementsLab\obj\Debug\netcoreapp2.1\personalTitles.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\nestedConditionalStatementsLab\nestedConditionalStatementsLab\obj\Debug\netcoreapp2.1\personalTitles.AssemblyInfo.cs
+C:\Users\User\source\repos\nestedConditionalStatementsLab\nestedConditionalStatementsLab\obj\Debug\netcoreapp2.1\personalTitles.dll
+C:\Users\User\source\repos\nestedConditionalStatementsLab\nestedConditionalStatementsLab\obj\Debug\netcoreapp2.1\personalTitles.pdb

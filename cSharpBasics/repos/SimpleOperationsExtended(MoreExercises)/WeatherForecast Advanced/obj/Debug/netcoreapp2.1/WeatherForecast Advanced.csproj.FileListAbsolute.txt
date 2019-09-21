@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\WeatherForecast Advanced\bin\Debug\netcoreapp2.1\WeatherForecast Advanced.deps.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\WeatherForecast Advanced\bin\Debug\netcoreapp2.1\WeatherForecast Advanced.runtimeconfig.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\WeatherForecast Advanced\bin\Debug\netcoreapp2.1\WeatherForecast Advanced.runtimeconfig.dev.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\WeatherForecast Advanced\bin\Debug\netcoreapp2.1\WeatherForecast Advanced.dll
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\WeatherForecast Advanced\bin\Debug\netcoreapp2.1\WeatherForecast Advanced.pdb
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\WeatherForecast Advanced\obj\Debug\netcoreapp2.1\WeatherForecast Advanced.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\WeatherForecast Advanced\obj\Debug\netcoreapp2.1\WeatherForecast Advanced.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\WeatherForecast Advanced\obj\Debug\netcoreapp2.1\WeatherForecast Advanced.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\WeatherForecast Advanced\obj\Debug\netcoreapp2.1\WeatherForecast Advanced.dll
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\WeatherForecast Advanced\obj\Debug\netcoreapp2.1\WeatherForecast Advanced.pdb

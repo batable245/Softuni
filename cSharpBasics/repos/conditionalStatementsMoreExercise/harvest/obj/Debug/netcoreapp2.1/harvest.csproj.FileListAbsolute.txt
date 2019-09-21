@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\harvest\bin\Debug\netcoreapp2.1\harvest.deps.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\harvest\bin\Debug\netcoreapp2.1\harvest.runtimeconfig.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\harvest\bin\Debug\netcoreapp2.1\harvest.runtimeconfig.dev.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\harvest\bin\Debug\netcoreapp2.1\harvest.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\harvest\bin\Debug\netcoreapp2.1\harvest.pdb
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\harvest\obj\Debug\netcoreapp2.1\harvest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\harvest\obj\Debug\netcoreapp2.1\harvest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\harvest\obj\Debug\netcoreapp2.1\harvest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\harvest\obj\Debug\netcoreapp2.1\harvest.AssemblyInfo.cs
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\harvest\obj\Debug\netcoreapp2.1\harvest.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\harvest\obj\Debug\netcoreapp2.1\harvest.pdb

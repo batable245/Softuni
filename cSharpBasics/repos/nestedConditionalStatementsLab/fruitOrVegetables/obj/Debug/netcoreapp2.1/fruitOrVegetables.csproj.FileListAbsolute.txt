@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\nestedConditionalStatementsLab\fruitOrVegetables\bin\Debug\netcoreapp2.1\fruitOrVegetables.deps.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\fruitOrVegetables\bin\Debug\netcoreapp2.1\fruitOrVegetables.runtimeconfig.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\fruitOrVegetables\bin\Debug\netcoreapp2.1\fruitOrVegetables.runtimeconfig.dev.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\fruitOrVegetables\bin\Debug\netcoreapp2.1\fruitOrVegetables.dll
+C:\Users\User\source\repos\nestedConditionalStatementsLab\fruitOrVegetables\bin\Debug\netcoreapp2.1\fruitOrVegetables.pdb
+C:\Users\User\source\repos\nestedConditionalStatementsLab\fruitOrVegetables\obj\Debug\netcoreapp2.1\fruitOrVegetables.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nestedConditionalStatementsLab\fruitOrVegetables\obj\Debug\netcoreapp2.1\fruitOrVegetables.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\nestedConditionalStatementsLab\fruitOrVegetables\obj\Debug\netcoreapp2.1\fruitOrVegetables.AssemblyInfo.cs
+C:\Users\User\source\repos\nestedConditionalStatementsLab\fruitOrVegetables\obj\Debug\netcoreapp2.1\fruitOrVegetables.dll
+C:\Users\User\source\repos\nestedConditionalStatementsLab\fruitOrVegetables\obj\Debug\netcoreapp2.1\fruitOrVegetables.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\TriangleArea\bin\Debug\netcoreapp2.1\TriangleArea.deps.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\TriangleArea\bin\Debug\netcoreapp2.1\TriangleArea.runtimeconfig.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\TriangleArea\bin\Debug\netcoreapp2.1\TriangleArea.runtimeconfig.dev.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\TriangleArea\bin\Debug\netcoreapp2.1\TriangleArea.dll
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\TriangleArea\bin\Debug\netcoreapp2.1\TriangleArea.pdb
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\TriangleArea\obj\Debug\netcoreapp2.1\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\TriangleArea\obj\Debug\netcoreapp2.1\TriangleArea.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\TriangleArea\obj\Debug\netcoreapp2.1\TriangleArea.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\TriangleArea\obj\Debug\netcoreapp2.1\TriangleArea.dll
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\TriangleArea\obj\Debug\netcoreapp2.1\TriangleArea.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\SimpleOperationsExtended(MoreExercises)\bin\Debug\netcoreapp2.1\TrapezoidArea.deps.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\SimpleOperationsExtended(MoreExercises)\bin\Debug\netcoreapp2.1\TrapezoidArea.runtimeconfig.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\SimpleOperationsExtended(MoreExercises)\bin\Debug\netcoreapp2.1\TrapezoidArea.runtimeconfig.dev.json
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\SimpleOperationsExtended(MoreExercises)\bin\Debug\netcoreapp2.1\TrapezoidArea.dll
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\SimpleOperationsExtended(MoreExercises)\bin\Debug\netcoreapp2.1\TrapezoidArea.pdb
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\SimpleOperationsExtended(MoreExercises)\obj\Debug\netcoreapp2.1\TrapezoidArea.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\SimpleOperationsExtended(MoreExercises)\obj\Debug\netcoreapp2.1\TrapezoidArea.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\SimpleOperationsExtended(MoreExercises)\obj\Debug\netcoreapp2.1\TrapezoidArea.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\SimpleOperationsExtended(MoreExercises)\obj\Debug\netcoreapp2.1\TrapezoidArea.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\SimpleOperationsExtended(MoreExercises)\obj\Debug\netcoreapp2.1\TrapezoidArea.dll
+C:\Users\User\source\repos\SimpleOperationsExtended(MoreExercises)\SimpleOperationsExtended(MoreExercises)\obj\Debug\netcoreapp2.1\TrapezoidArea.pdb

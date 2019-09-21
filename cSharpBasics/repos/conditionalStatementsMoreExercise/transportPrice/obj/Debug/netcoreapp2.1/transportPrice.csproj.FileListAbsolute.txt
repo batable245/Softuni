@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\transportPrice\bin\Debug\netcoreapp2.1\transportPrice.deps.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\transportPrice\bin\Debug\netcoreapp2.1\transportPrice.runtimeconfig.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\transportPrice\bin\Debug\netcoreapp2.1\transportPrice.runtimeconfig.dev.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\transportPrice\bin\Debug\netcoreapp2.1\transportPrice.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\transportPrice\bin\Debug\netcoreapp2.1\transportPrice.pdb
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\transportPrice\obj\Debug\netcoreapp2.1\transportPrice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\transportPrice\obj\Debug\netcoreapp2.1\transportPrice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\transportPrice\obj\Debug\netcoreapp2.1\transportPrice.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\transportPrice\obj\Debug\netcoreapp2.1\transportPrice.AssemblyInfo.cs
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\transportPrice\obj\Debug\netcoreapp2.1\transportPrice.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\transportPrice\obj\Debug\netcoreapp2.1\transportPrice.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SoftUni Lekciq N1\SoftUni Lekciq N1\bin\Debug\netcoreapp2.1\SoftUni Lekciq N1.deps.json
+C:\Users\User\source\repos\SoftUni Lekciq N1\SoftUni Lekciq N1\bin\Debug\netcoreapp2.1\SoftUni Lekciq N1.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni Lekciq N1\SoftUni Lekciq N1\bin\Debug\netcoreapp2.1\SoftUni Lekciq N1.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni Lekciq N1\SoftUni Lekciq N1\bin\Debug\netcoreapp2.1\SoftUni Lekciq N1.dll
+C:\Users\User\source\repos\SoftUni Lekciq N1\SoftUni Lekciq N1\bin\Debug\netcoreapp2.1\SoftUni Lekciq N1.pdb
+C:\Users\User\source\repos\SoftUni Lekciq N1\SoftUni Lekciq N1\obj\Debug\netcoreapp2.1\SoftUni Lekciq N1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SoftUni Lekciq N1\SoftUni Lekciq N1\obj\Debug\netcoreapp2.1\SoftUni Lekciq N1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni Lekciq N1\SoftUni Lekciq N1\obj\Debug\netcoreapp2.1\SoftUni Lekciq N1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni Lekciq N1\SoftUni Lekciq N1\obj\Debug\netcoreapp2.1\SoftUni Lekciq N1.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni Lekciq N1\SoftUni Lekciq N1\obj\Debug\netcoreapp2.1\SoftUni Lekciq N1.dll
+C:\Users\User\source\repos\SoftUni Lekciq N1\SoftUni Lekciq N1\obj\Debug\netcoreapp2.1\SoftUni Lekciq N1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soft uni Square Area", "soft uni Square Area\soft uni Square Area.csproj", "{D169E1CF-DA52-421A-9957-306E85F27FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D169E1CF-DA52-421A-9957-306E85F27FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D169E1CF-DA52-421A-9957-306E85F27FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D169E1CF-DA52-421A-9957-306E85F27FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D169E1CF-DA52-421A-9957-306E85F27FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12CA64E-1082-4626-9F81-608903F2B7C4}
+	EndGlobalSection
+EndGlobal

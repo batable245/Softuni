@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\USD to BGN\TailoringWorkshop\bin\Debug\netcoreapp2.1\TailoringWorkshop.deps.json
+C:\Users\User\source\repos\USD to BGN\TailoringWorkshop\bin\Debug\netcoreapp2.1\TailoringWorkshop.runtimeconfig.json
+C:\Users\User\source\repos\USD to BGN\TailoringWorkshop\bin\Debug\netcoreapp2.1\TailoringWorkshop.runtimeconfig.dev.json
+C:\Users\User\source\repos\USD to BGN\TailoringWorkshop\bin\Debug\netcoreapp2.1\TailoringWorkshop.dll
+C:\Users\User\source\repos\USD to BGN\TailoringWorkshop\bin\Debug\netcoreapp2.1\TailoringWorkshop.pdb
+C:\Users\User\source\repos\USD to BGN\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\USD to BGN\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\USD to BGN\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\USD to BGN\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.AssemblyInfo.cs
+C:\Users\User\source\repos\USD to BGN\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.dll
+C:\Users\User\source\repos\USD to BGN\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\nestedConditionalStatementsLab\skiTrip\bin\Debug\netcoreapp2.1\skiTrip.deps.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\skiTrip\bin\Debug\netcoreapp2.1\skiTrip.runtimeconfig.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\skiTrip\bin\Debug\netcoreapp2.1\skiTrip.runtimeconfig.dev.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\skiTrip\bin\Debug\netcoreapp2.1\skiTrip.dll
+C:\Users\User\source\repos\nestedConditionalStatementsLab\skiTrip\bin\Debug\netcoreapp2.1\skiTrip.pdb
+C:\Users\User\source\repos\nestedConditionalStatementsLab\skiTrip\obj\Debug\netcoreapp2.1\skiTrip.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nestedConditionalStatementsLab\skiTrip\obj\Debug\netcoreapp2.1\skiTrip.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\nestedConditionalStatementsLab\skiTrip\obj\Debug\netcoreapp2.1\skiTrip.AssemblyInfo.cs
+C:\Users\User\source\repos\nestedConditionalStatementsLab\skiTrip\obj\Debug\netcoreapp2.1\skiTrip.dll
+C:\Users\User\source\repos\nestedConditionalStatementsLab\skiTrip\obj\Debug\netcoreapp2.1\skiTrip.pdb

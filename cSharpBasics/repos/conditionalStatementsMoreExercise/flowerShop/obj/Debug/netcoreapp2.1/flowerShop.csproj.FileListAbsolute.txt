@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\flowerShop\bin\Debug\netcoreapp2.1\flowerShop.deps.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\flowerShop\bin\Debug\netcoreapp2.1\flowerShop.runtimeconfig.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\flowerShop\bin\Debug\netcoreapp2.1\flowerShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\flowerShop\bin\Debug\netcoreapp2.1\flowerShop.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\flowerShop\bin\Debug\netcoreapp2.1\flowerShop.pdb
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\flowerShop\obj\Debug\netcoreapp2.1\flowerShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\flowerShop\obj\Debug\netcoreapp2.1\flowerShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\flowerShop\obj\Debug\netcoreapp2.1\flowerShop.AssemblyInfo.cs
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\flowerShop\obj\Debug\netcoreapp2.1\flowerShop.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\flowerShop\obj\Debug\netcoreapp2.1\flowerShop.pdb

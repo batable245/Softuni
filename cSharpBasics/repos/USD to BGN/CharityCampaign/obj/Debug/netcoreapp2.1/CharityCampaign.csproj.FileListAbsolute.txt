@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\USD to BGN\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.deps.json
+C:\Users\User\source\repos\USD to BGN\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.runtimeconfig.json
+C:\Users\User\source\repos\USD to BGN\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.runtimeconfig.dev.json
+C:\Users\User\source\repos\USD to BGN\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.dll
+C:\Users\User\source\repos\USD to BGN\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.pdb
+C:\Users\User\source\repos\USD to BGN\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\USD to BGN\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\USD to BGN\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.AssemblyInfo.cs
+C:\Users\User\source\repos\USD to BGN\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.dll
+C:\Users\User\source\repos\USD to BGN\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.pdb

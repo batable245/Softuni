@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\08. Yard Greening\08. Yard Greening\bin\Debug\netcoreapp2.1\08. Yard Greening.deps.json
+C:\Users\User\source\repos\08. Yard Greening\08. Yard Greening\bin\Debug\netcoreapp2.1\08. Yard Greening.runtimeconfig.json
+C:\Users\User\source\repos\08. Yard Greening\08. Yard Greening\bin\Debug\netcoreapp2.1\08. Yard Greening.runtimeconfig.dev.json
+C:\Users\User\source\repos\08. Yard Greening\08. Yard Greening\bin\Debug\netcoreapp2.1\08. Yard Greening.dll
+C:\Users\User\source\repos\08. Yard Greening\08. Yard Greening\bin\Debug\netcoreapp2.1\08. Yard Greening.pdb
+C:\Users\User\source\repos\08. Yard Greening\08. Yard Greening\obj\Debug\netcoreapp2.1\08. Yard Greening.csprojAssemblyReference.cache
+C:\Users\User\source\repos\08. Yard Greening\08. Yard Greening\obj\Debug\netcoreapp2.1\08. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\08. Yard Greening\08. Yard Greening\obj\Debug\netcoreapp2.1\08. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\08. Yard Greening\08. Yard Greening\obj\Debug\netcoreapp2.1\08. Yard Greening.AssemblyInfo.cs
+C:\Users\User\source\repos\08. Yard Greening\08. Yard Greening\obj\Debug\netcoreapp2.1\08. Yard Greening.dll
+C:\Users\User\source\repos\08. Yard Greening\08. Yard Greening\obj\Debug\netcoreapp2.1\08. Yard Greening.pdb

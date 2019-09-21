@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\NestedConditionalsExercise\newHouse\bin\Debug\netcoreapp2.1\newHouse.deps.json
+C:\Users\User\source\repos\NestedConditionalsExercise\newHouse\bin\Debug\netcoreapp2.1\newHouse.runtimeconfig.json
+C:\Users\User\source\repos\NestedConditionalsExercise\newHouse\bin\Debug\netcoreapp2.1\newHouse.runtimeconfig.dev.json
+C:\Users\User\source\repos\NestedConditionalsExercise\newHouse\bin\Debug\netcoreapp2.1\newHouse.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\newHouse\bin\Debug\netcoreapp2.1\newHouse.pdb
+C:\Users\User\source\repos\NestedConditionalsExercise\newHouse\obj\Debug\netcoreapp2.1\newHouse.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\newHouse\obj\Debug\netcoreapp2.1\newHouse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\newHouse\obj\Debug\netcoreapp2.1\newHouse.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\newHouse\obj\Debug\netcoreapp2.1\newHouse.AssemblyInfo.cs
+C:\Users\User\source\repos\NestedConditionalsExercise\newHouse\obj\Debug\netcoreapp2.1\newHouse.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\newHouse\obj\Debug\netcoreapp2.1\newHouse.pdb

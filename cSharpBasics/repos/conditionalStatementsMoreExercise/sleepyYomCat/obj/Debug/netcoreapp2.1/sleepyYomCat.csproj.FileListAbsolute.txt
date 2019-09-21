@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\sleepyYomCat\bin\Debug\netcoreapp2.1\sleepyYomCat.deps.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\sleepyYomCat\bin\Debug\netcoreapp2.1\sleepyYomCat.runtimeconfig.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\sleepyYomCat\bin\Debug\netcoreapp2.1\sleepyYomCat.runtimeconfig.dev.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\sleepyYomCat\bin\Debug\netcoreapp2.1\sleepyYomCat.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\sleepyYomCat\bin\Debug\netcoreapp2.1\sleepyYomCat.pdb
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\sleepyYomCat\obj\Debug\netcoreapp2.1\sleepyYomCat.csprojAssemblyReference.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\sleepyYomCat\obj\Debug\netcoreapp2.1\sleepyYomCat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\sleepyYomCat\obj\Debug\netcoreapp2.1\sleepyYomCat.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\sleepyYomCat\obj\Debug\netcoreapp2.1\sleepyYomCat.AssemblyInfo.cs
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\sleepyYomCat\obj\Debug\netcoreapp2.1\sleepyYomCat.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\sleepyYomCat\obj\Debug\netcoreapp2.1\sleepyYomCat.pdb

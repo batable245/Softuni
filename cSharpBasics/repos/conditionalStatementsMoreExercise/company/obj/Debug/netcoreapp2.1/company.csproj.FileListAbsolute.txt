@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\company\bin\Debug\netcoreapp2.1\company.deps.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\company\bin\Debug\netcoreapp2.1\company.runtimeconfig.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\company\bin\Debug\netcoreapp2.1\company.runtimeconfig.dev.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\company\bin\Debug\netcoreapp2.1\company.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\company\bin\Debug\netcoreapp2.1\company.pdb
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\company\obj\Debug\netcoreapp2.1\company.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\company\obj\Debug\netcoreapp2.1\company.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\company\obj\Debug\netcoreapp2.1\company.AssemblyInfo.cs
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\company\obj\Debug\netcoreapp2.1\company.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\company\obj\Debug\netcoreapp2.1\company.pdb

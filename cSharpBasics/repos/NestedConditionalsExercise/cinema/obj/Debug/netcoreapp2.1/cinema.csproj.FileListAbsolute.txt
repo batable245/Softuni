@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\NestedConditionalsExercise\cinema\bin\Debug\netcoreapp2.1\cinema.deps.json
+C:\Users\User\source\repos\NestedConditionalsExercise\cinema\bin\Debug\netcoreapp2.1\cinema.runtimeconfig.json
+C:\Users\User\source\repos\NestedConditionalsExercise\cinema\bin\Debug\netcoreapp2.1\cinema.runtimeconfig.dev.json
+C:\Users\User\source\repos\NestedConditionalsExercise\cinema\bin\Debug\netcoreapp2.1\cinema.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\cinema\bin\Debug\netcoreapp2.1\cinema.pdb
+C:\Users\User\source\repos\NestedConditionalsExercise\cinema\obj\Debug\netcoreapp2.1\cinema.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\cinema\obj\Debug\netcoreapp2.1\cinema.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\cinema\obj\Debug\netcoreapp2.1\cinema.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\cinema\obj\Debug\netcoreapp2.1\cinema.AssemblyInfo.cs
+C:\Users\User\source\repos\NestedConditionalsExercise\cinema\obj\Debug\netcoreapp2.1\cinema.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\cinema\obj\Debug\netcoreapp2.1\cinema.pdb

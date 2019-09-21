@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\05. Projects Creation\05. Projects Creation\bin\Debug\netcoreapp2.1\05. Projects Creation.deps.json
+C:\Users\User\source\repos\05. Projects Creation\05. Projects Creation\bin\Debug\netcoreapp2.1\05. Projects Creation.runtimeconfig.json
+C:\Users\User\source\repos\05. Projects Creation\05. Projects Creation\bin\Debug\netcoreapp2.1\05. Projects Creation.runtimeconfig.dev.json
+C:\Users\User\source\repos\05. Projects Creation\05. Projects Creation\bin\Debug\netcoreapp2.1\05. Projects Creation.dll
+C:\Users\User\source\repos\05. Projects Creation\05. Projects Creation\bin\Debug\netcoreapp2.1\05. Projects Creation.pdb
+C:\Users\User\source\repos\05. Projects Creation\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05. Projects Creation\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\05. Projects Creation\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05. Projects Creation\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.AssemblyInfo.cs
+C:\Users\User\source\repos\05. Projects Creation\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.dll
+C:\Users\User\source\repos\05. Projects Creation\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.pdb

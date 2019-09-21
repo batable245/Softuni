@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\conditionalStatementsMoreExercise\obj\Debug\netcoreapp2.1\PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\conditionalStatementsMoreExercise\obj\Debug\netcoreapp2.1\PipesInPool.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\conditionalStatementsMoreExercise\obj\Debug\netcoreapp2.1\PipesInPool.AssemblyInfo.cs
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\conditionalStatementsMoreExercise\bin\Debug\netcoreapp2.1\PipesInPool.deps.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\conditionalStatementsMoreExercise\bin\Debug\netcoreapp2.1\PipesInPool.runtimeconfig.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\conditionalStatementsMoreExercise\bin\Debug\netcoreapp2.1\PipesInPool.runtimeconfig.dev.json
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\conditionalStatementsMoreExercise\bin\Debug\netcoreapp2.1\PipesInPool.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\conditionalStatementsMoreExercise\bin\Debug\netcoreapp2.1\PipesInPool.pdb
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\conditionalStatementsMoreExercise\obj\Debug\netcoreapp2.1\PipesInPool.csprojAssemblyReference.cache
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\conditionalStatementsMoreExercise\obj\Debug\netcoreapp2.1\PipesInPool.dll
+C:\Users\User\source\repos\conditionalStatementsMoreExercise\conditionalStatementsMoreExercise\obj\Debug\netcoreapp2.1\PipesInPool.pdb

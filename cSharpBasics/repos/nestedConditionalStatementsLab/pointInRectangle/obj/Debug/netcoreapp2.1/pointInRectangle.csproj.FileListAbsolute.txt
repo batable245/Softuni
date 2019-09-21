@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\nestedConditionalStatementsLab\pointInRectangle\bin\Debug\netcoreapp2.1\pointInRectangle.deps.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\pointInRectangle\bin\Debug\netcoreapp2.1\pointInRectangle.runtimeconfig.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\pointInRectangle\bin\Debug\netcoreapp2.1\pointInRectangle.runtimeconfig.dev.json
+C:\Users\User\source\repos\nestedConditionalStatementsLab\pointInRectangle\bin\Debug\netcoreapp2.1\pointInRectangle.dll
+C:\Users\User\source\repos\nestedConditionalStatementsLab\pointInRectangle\bin\Debug\netcoreapp2.1\pointInRectangle.pdb
+C:\Users\User\source\repos\nestedConditionalStatementsLab\pointInRectangle\obj\Debug\netcoreapp2.1\pointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nestedConditionalStatementsLab\pointInRectangle\obj\Debug\netcoreapp2.1\pointInRectangle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\nestedConditionalStatementsLab\pointInRectangle\obj\Debug\netcoreapp2.1\pointInRectangle.AssemblyInfo.cs
+C:\Users\User\source\repos\nestedConditionalStatementsLab\pointInRectangle\obj\Debug\netcoreapp2.1\pointInRectangle.dll
+C:\Users\User\source\repos\nestedConditionalStatementsLab\pointInRectangle\obj\Debug\netcoreapp2.1\pointInRectangle.pdb

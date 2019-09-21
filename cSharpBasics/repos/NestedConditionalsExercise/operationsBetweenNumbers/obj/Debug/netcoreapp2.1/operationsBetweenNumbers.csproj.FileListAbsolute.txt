@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\NestedConditionalsExercise\operationsBetweenNumbers\bin\Debug\netcoreapp2.1\operationsBetweenNumbers.deps.json
+C:\Users\User\source\repos\NestedConditionalsExercise\operationsBetweenNumbers\bin\Debug\netcoreapp2.1\operationsBetweenNumbers.runtimeconfig.json
+C:\Users\User\source\repos\NestedConditionalsExercise\operationsBetweenNumbers\bin\Debug\netcoreapp2.1\operationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\NestedConditionalsExercise\operationsBetweenNumbers\bin\Debug\netcoreapp2.1\operationsBetweenNumbers.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\operationsBetweenNumbers\bin\Debug\netcoreapp2.1\operationsBetweenNumbers.pdb
+C:\Users\User\source\repos\NestedConditionalsExercise\operationsBetweenNumbers\obj\Debug\netcoreapp2.1\operationsBetweenNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\operationsBetweenNumbers\obj\Debug\netcoreapp2.1\operationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\operationsBetweenNumbers\obj\Debug\netcoreapp2.1\operationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NestedConditionalsExercise\operationsBetweenNumbers\obj\Debug\netcoreapp2.1\operationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\NestedConditionalsExercise\operationsBetweenNumbers\obj\Debug\netcoreapp2.1\operationsBetweenNumbers.dll
+C:\Users\User\source\repos\NestedConditionalsExercise\operationsBetweenNumbers\obj\Debug\netcoreapp2.1\operationsBetweenNumbers.pdb
